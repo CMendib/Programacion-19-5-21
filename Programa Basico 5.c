@@ -40,7 +40,7 @@ int main()
         case 4:
         case 8:
         case 12:
-                PRINTF("\n Tu elemento es el AGUA");
+                PRINTF("\n Tu elemento es el AGUA"); //AQUILos comandos de C se escriben en "minúsculas".
                 break;
         default:
                 printf("El numero no corresponde con ningun signo de zodiaco ")
